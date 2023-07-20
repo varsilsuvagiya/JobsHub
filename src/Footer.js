@@ -15,7 +15,7 @@ function Footer() {
           <img className="footer-logo" src="assets/img/blwhole.png" alt="" />
         </a>
         <p>
-          Job'sHub Is company which provide online platform for you if you need any job or you want to hire someone for your work.
+          Job'sHub Is Company which provide online platform for you if you need any job or you want to hire someone for your work.
         </p>
         {/* Social Box */}
 
