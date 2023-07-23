@@ -13,13 +13,15 @@ function Footer() {
       <div className="col-md-3 col-sm-6">
         <a href="index-2.html">
           <img className="footer-logo" src="assets/img/blwhole.png" alt="" />
+          
         </a>
         <p>
           Job'sHub Is Company which provide online platform for you if you need any job or you want to hire someone for your work.
         </p>
-
-
         
+
+
+
         {/* Social Box */}
 
 
