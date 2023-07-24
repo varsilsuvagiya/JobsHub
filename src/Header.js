@@ -11,6 +11,7 @@ function Header() {
   <nav className="navbar navbar-default navbar-mobile navbar-fixed white bootsnav on no-background">
     <div className="container">
       <div className="navbar-header">
+      
         <button
           type="button"
           className="navbar-toggle"
