@@ -14,6 +14,7 @@ function Forgot() {
    <div className="page-title">
      <div className="container">
        <div className="page-caption">
+
          <h2>Login An Account</h2>
          <p>
            <Link to="/seekerlogin" title="Home">
