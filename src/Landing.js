@@ -10,6 +10,7 @@ function Landing() {
   <div
     className="utf_main_banner_area"
     style={{ backgroundImage: "url(assets/img/slider_bg.jpg)" }}
+    
     data-overlay={8}
   >
     <div className="container">

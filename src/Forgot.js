@@ -12,6 +12,7 @@ function Forgot() {
   return (
    <> 
    <div className="page-title">
+   
      <div className="container">
        <div className="page-caption">
 
