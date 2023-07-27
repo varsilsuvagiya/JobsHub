@@ -15,6 +15,7 @@ function Landing() {
   >
     <div className="container">
       <div className="col-md-8 col-sm-10">
+      
         <div className="caption cl-white home_two_slid">
           <h2>
             Search Between More Then <span className="theme-cl">50,000</span>{" "}
