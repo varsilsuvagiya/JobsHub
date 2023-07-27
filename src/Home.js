@@ -9,6 +9,7 @@ import  Loader  from "./Loader";
 
 function Home() {
   const [catlist, setcatlist] = useState([]);
+  
   const [data, setData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const getcatlistfunction = async () => {
