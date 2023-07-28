@@ -14,6 +14,7 @@ function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const getcatlistfunction = async () => {
     const result = await getcategory();
+    
     console.log(result);
     setcatlist(result.data);
   };
