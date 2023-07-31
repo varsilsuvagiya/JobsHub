@@ -14,8 +14,11 @@ loadjs("assets/plugins/bootstrap/js/wysihtml5-0.3.0.js",{async:true}),
 loadjs("assets/plugins/bootstrap/js/bootstrap-wysihtml5.js",{async:true}),
 loadjs("assets/plugins/aos-master/aos.js",{async:true}),
 loadjs("assets/plugins/nice-select/js/jquery.nice-select.min.js",{async:true}),
+
 loadjs("assets/js/custom.js",{async:true}),
 loadjs("assets/js/Extra.js",{async:true})
+
+
 
 // loadjs('assets.mycustom.js')
 
