@@ -13,6 +13,8 @@ function Changepwd() {
   const[data2,setdata2]=useState({
     jsid: userData?.jsid,
     jspwd:"",
+
+
     jspwdn:""
   
   });
