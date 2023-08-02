@@ -24,6 +24,7 @@ function Seekerhome() {
     setTimeout(() => {
       setData("Some data");
       setIsLoading(false);
+      
     }, 1000);
   }, []);
 
