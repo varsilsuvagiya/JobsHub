@@ -12,6 +12,7 @@ import  Loader  from "../Loader";
 
 function Seekerhome() {
   const [joblist, setjoblist] = useState([]);
+  
   const getjoblistfunction = async () => {
     const result = await getjobb(joblist);
     console.log(result, "data");
