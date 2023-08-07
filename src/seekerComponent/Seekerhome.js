@@ -15,6 +15,7 @@ function Seekerhome() {
   
   const getjoblistfunction = async () => {
     const result = await getjobb(joblist);
+    
     console.log(result, "data");
     setjoblist(result.data);
   };
