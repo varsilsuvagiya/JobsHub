@@ -16,6 +16,7 @@ function Resumedetail() {
 
   const resumedownloader=async(data)=>{
     const response = await downloadInvoice(data);
+    
     toast.success("Your Resume Download Successfully.. Check Your Mail ")
   }
   console.log(userData, "userdata");
