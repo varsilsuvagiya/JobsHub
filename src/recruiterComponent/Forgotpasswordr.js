@@ -11,6 +11,7 @@ function Forgotpassword() {
   const [OTP, setOTP] = useState("");//for otp input
 
   const [data, setData] = useState({
+    
     email: "",
     otp: "",
     pwd: "",
