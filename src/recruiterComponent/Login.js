@@ -3,6 +3,7 @@ import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { useNavigate } from "react-router-dom";
 import { loginadmin } from "./api/common_api";
+
 function Login() {
     const navigate = useNavigate();
   const [newData1, setnew1] = useState({
