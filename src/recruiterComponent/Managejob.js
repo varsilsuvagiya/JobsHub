@@ -179,6 +179,7 @@ function Managejob() {
         {/* ======================= Page Title ===================== */}
         <div className="page-title">
           <div className="container">
+          
             <div className="page-caption">
               <h2>
               <Typewriter
