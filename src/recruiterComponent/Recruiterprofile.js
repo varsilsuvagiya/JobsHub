@@ -15,6 +15,7 @@ import { ApiRoutes } from "../constants";
 import Typewriter from "typewriter-effect";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+
 import Loader from "../Loader";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
