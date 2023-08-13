@@ -45,6 +45,7 @@ console.log(userData.companyid,"userdata")
                options={{
                autoStart: true,
                loop: true,
+               
               }}
               onInit={(typewriter)=>{
                 typewriter
