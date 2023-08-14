@@ -36,6 +36,7 @@ function Addjob() {
     language: userData?.language,
     interview: userData?.interview,
     location: userData?.location,
+    
     postdate: userData?.postdate,
 
     description: userData?.description,
