@@ -14,6 +14,7 @@ function Login() {
   const notify = () => toast();
   function update1(e) {
     setnew1({ ...newData1, [e.target.name]: e.target.value });
+    
   }
 
   async function loginapi() {
