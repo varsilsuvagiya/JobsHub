@@ -6,6 +6,7 @@ const getworkingtime = async (data) => {
     return res;
   } catch (error) {
     throw error;
+    
   }
 };
 const getcategory = async (data) => {
