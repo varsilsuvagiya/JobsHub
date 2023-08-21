@@ -414,6 +414,7 @@ export {
   getaddjob,
   review,
   reviewr,
+  
   updatecategory,
   deletecategory,
   getapply,
