@@ -8,6 +8,7 @@ export function ApiHelperPost(url, data = {}) {
     },
   })
     .then((res) => res.json())
+    
     .then(
       (result) => {
         console.log(result);
