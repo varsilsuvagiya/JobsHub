@@ -8,7 +8,7 @@ export function ApiHelperPost(url, data = {}) {
     },
   })
     .then((res) => res.json())
-    
+
     .then(
       (result) => {
         console.log(result);
@@ -19,6 +19,7 @@ export function ApiHelperPost(url, data = {}) {
       }
     );
 }
+
 export function ApiHelperFile(url, data = {}) {
   return fetch(ApiRoutes.API_HOSTNAME + url, {
     method: "POST",
