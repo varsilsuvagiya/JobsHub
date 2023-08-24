@@ -5,6 +5,7 @@ export function ApiHelperPost(url, data = {}) {
     body: JSON.stringify(data),
     headers: {
       "content-type": "application/json",
+      
     },
   })
     .then((res) => res.json())

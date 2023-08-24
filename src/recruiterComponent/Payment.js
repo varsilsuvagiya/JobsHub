@@ -1,7 +1,6 @@
 import React,{useEffect, useState} from 'react'
 import { Link, Navigate, useNavigate } from 'react-router-dom'
 import Load from "../Load";
-import RecHeader from "./RecHeader";
 import Recruiterfooter from "./Recruiterfooter";
 import useRazorpay from "react-razorpay";
 import Typewriter from "typewriter-effect";
