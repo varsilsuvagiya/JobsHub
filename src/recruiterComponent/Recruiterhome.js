@@ -16,6 +16,7 @@ function Recruiterhome() {
     const result = await getcategory();
     console.log(result);
     setcatlist(result.data);
+    
   };
   const [dataa, setDataa] = useState(null);
 const [isLoading, setIsLoading] = useState(true);
