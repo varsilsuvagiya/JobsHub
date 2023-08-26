@@ -12,6 +12,7 @@ function Browsecategory() {
  <>
   {/* ======================= Page Title ===================== */}
   <div className="page-title">
+  
     <div className="container">
       <div className="page-caption">
         <h2>Browse by Categories</h2>
