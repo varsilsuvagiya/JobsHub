@@ -15,6 +15,7 @@ function Error404() {
           Page Not Found !
         </h2>
         <p>Sorry, this page does not exist</p>
+        
         <span>
           The link you clicked might be corrupted, or the page may have been
           removed.
