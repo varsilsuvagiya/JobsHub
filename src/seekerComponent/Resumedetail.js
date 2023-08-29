@@ -11,6 +11,7 @@ import  Loader  from "../Loader";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 function Resumedetail() {
+  
 
   const userData = JSON.parse(localStorage.getItem("userdata")); //for fill data from registration
 
